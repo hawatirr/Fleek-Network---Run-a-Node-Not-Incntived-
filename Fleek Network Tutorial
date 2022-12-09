@@ -8,18 +8,9 @@ Install dependencies
 
 ```
 sudo apt update -y
-```
-
-```
 sudo apt upgrade -y
-```
-```
 sudo apt install build-essential -y
-```
-```
 sudo apt install libssl-dev pkg-config libclang-dev -y
-```
-```
 Install Rust (^1.65.0)
 ```
 
